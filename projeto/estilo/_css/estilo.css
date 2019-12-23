@@ -1,0 +1,33 @@
+.form-inline{
+    text-align: center;
+}
+
+div.container {
+    padding-top: 65px;
+}
+.navbar-inverse {
+    background: rgba(255,255,255,1);
+    color: #fff;
+}
+
+#lista {
+                margin:60px auto 0;
+                font-family:sans-serif;
+                font-size:13px;
+            }
+            
+            #lista ul {
+                margin:0;padding:0; 
+                border-bottom:1px;
+            }
+            
+            #lista ul:last-child {
+                border-bottom:none;
+            }
+            
+            
+            #lista li {
+                list-style:none;
+                display:inline-block;
+                
+            }
